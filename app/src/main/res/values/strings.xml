@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Random Word Generator</string>
+    <string name="noun_btn">Nouns</string>
+    <string name="verb_btn">Verbs</string>
+    <string name="adjective_btn">Adjectives</string>
+    <string name="adverb_btn">Adverbs</string>
+    <string name="filter_text">Filters:</string>
+    <string name="length_filter_text_1">Limit word to </string>
+    <string name="length_filter_text_2">letters</string>
+    <string name="length_filter_value">99</string>
+    <string name="length_filter_hint">Enter Length</string>
+    <string name="apply_btn_text">Apply</string>
+    <string name="generate_btn_text">GENERATE</string>
+</resources>
